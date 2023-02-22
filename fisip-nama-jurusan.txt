@@ -2,7 +2,11 @@ NAMA JURUSAN FISIP
 - AB
   * 01
   * 02
+    ^ A
+    ^ B
 - HI
 - AN
+  ^ B
 - ILKOM
 - IP
+- PSI
