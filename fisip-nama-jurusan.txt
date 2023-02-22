@@ -2,7 +2,9 @@ NAMA JURUSAN FISIP
 - AB
   * 01
   * 02
-- HI
+    ^ satu
+    ^ dua
 - AN
+  ^ satu
 - ILKOM
 - IP
