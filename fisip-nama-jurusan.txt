@@ -3,6 +3,7 @@ NAMA JURUSAN FISIP
   * 01
   * 02
     ^ A
+    ^ B
 - HI
 - AN
   ^ B
