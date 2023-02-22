@@ -2,9 +2,11 @@ NAMA JURUSAN FISIP
 - AB
   * 01
   * 02
-    ^ satu
-    ^ dua
+    ^ A
+    ^ B
+- HI
 - AN
-  ^ satu
+  ^ B
 - ILKOM
 - IP
+- PSI
